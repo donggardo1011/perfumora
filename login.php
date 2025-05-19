@@ -7,7 +7,7 @@ $dotenv = Dotenv\Dotenv::createImmutable(__DIR__);
 $dotenv->load();
 $siteKey = $_ENV['RECAPTCHA_SITE_KEY'] ?? '';
 ?>
-<!-- AMBOT -->
+
 
 <!DOCTYPE html>
 <html lang="en">
