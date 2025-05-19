@@ -8,6 +8,7 @@ $dotenv->load();
 $siteKey = $_ENV['RECAPTCHA_SITE_KEY'] ?? '';
 ?>
 
+<!-- SAMPLE -->
 
 <!DOCTYPE html>
 <html lang="en">
